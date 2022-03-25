@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   plugins: [
-    'gatsby-plugin-netlify',
+    "gatsby-plugin-netlify",
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
