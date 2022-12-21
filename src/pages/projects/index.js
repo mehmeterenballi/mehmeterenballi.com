@@ -25,7 +25,7 @@ const Projects = ({ data }) => {
             </Link>
           ))}
         </div>
-        <p>Like what you see? email me at {contact} for a quote!</p>
+        <p>Like what you see? email me at mehmeterenballi@gmail.com for a quote!</p>
       </div>
     </Layout>
   );
